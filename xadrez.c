@@ -11,6 +11,12 @@ int main() {
     printf("bispo: cima direita \n");
   }
   
+  for (int i = 0; i < 5; i++)
+  {
+    printf("torre: direita \n");
+  }
+  
+  
 
     return 0;
 }
