@@ -16,6 +16,10 @@ int main() {
     printf("torre: direita \n");
   }
   
+  for (int i = 0; i < 8; i++)
+  {
+    printf("rainha: esquerda \n");
+  }
   
 
     return 0;
