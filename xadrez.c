@@ -20,6 +20,20 @@ int main() {
   {
     printf("rainha: esquerda \n");
   }
+
+  int cavalo = 1;
+
+  while (cavalo--)
+  printf("cavalo:");
+  {
+    for (int i = 0; i < 3; i++)
+    {
+      printf("cima ");
+      i++;
+    }
+    printf("direita ");
+  }
+  
   
 
     return 0;
